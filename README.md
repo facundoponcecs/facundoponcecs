@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/facundoponcecs
 [instagram]: https://www.instagram.com/poncefacundo
-[linkedin]: https://linkedin.com/in/facundoponcecs
+[linkedin]: https://linkedin.com/in/facundo-ponce
